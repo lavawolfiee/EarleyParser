@@ -1,0 +1,21 @@
+2 2 3
+SB
+ab
+S->aB
+B->b
+B->ba
+S
+6
+ab
+aba
+a
+ba
+abab
+abaa
+
+YES
+YES
+NO
+NO
+NO
+NO
